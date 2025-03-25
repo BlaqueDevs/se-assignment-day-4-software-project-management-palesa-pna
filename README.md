@@ -35,22 +35,29 @@
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile and Waterfall are two distinct software development methodologies. Agile follows an iterative and incremental approach, allowing flexibility in adapting to changes at any stage, whereas Waterfall is a linear and sequential model where each phase must be completed before moving to the next. Agile operates in continuous cycles (sprints) with evolving development, while Waterfall follows defined stages such as requirements gathering, design, development, testing, and deployment. Agile encourages continuous stakeholder involvement, whereas Waterfall primarily involves users at the beginning and end of the project. In Agile, testing is integrated throughout the development cycle, whereas in Waterfall, testing occurs after development is completed. Agile reduces risk through frequent iterations and feedback, while Waterfall poses a higher risk since issues may only surface late in the project. Agile is best suited for dynamic projects with changing requirements, while Waterfall is ideal for stable projects with well-defined requirements.
 **Advantages and Disadvantages**
+
 **Agile Methodology**
  **Advantages**:
+ 
 1. Adaptability to changing requirements
 2. Faster time to market with incremental releases
 3. Higher customer satisfaction through continuous feedback
 4. Improved collaboration and communication
 **Disadvantages**:
+
+
 1. Requires experienced teams to manage iterations effectively
 2. Can be resource-intensive and require constant user involvement
 3. Less predictability in cost and timeline
 **Waterfall Methodology**
 **Advantages**:
+
 1. Clear structure and well-documented processes
 2. Easier to estimate cost and timeline upfront
 3. Well-suited for projects with strict regulatory requirements
 **Disadvantages**:
+
+
 1. Difficult to implement changes once development starts
 2. Late discovery of issues due to testing being a final phase
 3. Higher risk of project failure if requirements are misunderstood
