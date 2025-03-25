@@ -67,7 +67,6 @@ Agile and Waterfall are two distinct software development methodologies. Agile f
 2. Late discovery of issues due to testing being a final phase
 3. Higher risk of project failure if requirements are misunderstood
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
-Agile is best suited for projects that require flexibility, rapid iterations, and continuous feedback. These include:
 1. **Software Startups & Product Development** – Agile allows frequent releases and adaptations based on user feedback.
 Example: A mobile app startup launching an MVP and iterating based on customer responses.
 2. **Custom Software Development** – When requirements are likely to change, Agile enables adjustments throughout development.
