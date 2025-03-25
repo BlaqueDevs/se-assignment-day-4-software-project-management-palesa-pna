@@ -43,7 +43,7 @@ Agile and Waterfall are two distinct software development methodologies. Agile f
 2. Faster time to market with incremental releases
 3. Higher customer satisfaction through continuous feedback
 4. Improved collaboration and communication
-**Disadvantages**:
+   **Agile Methodology Disadvantages**:
 
 
 1. Requires experienced teams to manage iterations effectively
@@ -55,7 +55,9 @@ Agile and Waterfall are two distinct software development methodologies. Agile f
 1. Clear structure and well-documented processes
 2. Easier to estimate cost and timeline upfront
 3. Well-suited for projects with strict regulatory requirements
-**Disadvantages**:
+
+   
+**Waterfall Methodology Disadvantages**:
 
 
 1. Difficult to implement changes once development starts
